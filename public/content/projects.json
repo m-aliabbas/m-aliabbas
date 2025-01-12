@@ -1,0 +1,376 @@
+[
+  {
+    "title": "Calling Agents Demos",
+    "description": "Developed inbound and outbound multilingual calling bots to enhance customer interaction and sales efficiency. Achieved a 6% increase in sales and 90% accuracy in conversational tasks.",
+    "link": {
+      "href": "https://demo-cog-en.vercel.app/",
+      "label": "hosted demo"
+    },
+    "logo": {
+      "src": "call_logo.jpg",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "CFO-II",
+    "description": "Created a voice-to-voice financial analysis agent using Retrieval-Augmented Generation (RAG) and Function Calling.",
+    "link": {
+      "href": "https://cfo-frontend-five.vercel.app/",
+      "label": "hosted demo"
+    },
+    "logo": {
+      "src": "cfo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Pre-training BERT and GPT2 Family Models for Papia Language",
+    "description": "Built a pipeline for training tokenizers and language models tailored to the Papia language.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/AudioSplitter",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "hf_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "OB/GYN Exam Preparation Bot",
+    "description": "Developed a chatbot to assist users in preparing for exams and interviews in the OB/GYN field.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/graph_exam_bot",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "langgraph.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Website Analyzer",
+    "description": "Created a website content analysis tool that summarizes and critiques site content dynamically.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/graph_exam_bot",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "langgraph.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Real-Time Whisper Client Server",
+    "description": "Developed a real-time transcription system using Whisper ASR for highly accurate and low-latency speech-to-text conversion.",
+    "link": {
+      "href": "https://github.com/IDRAk-ML/realtime_whisper",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "openai_whisoer.jpg",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Alee TTS: Conversational Text-to-Speech System",
+    "description": "Developed an advanced Text-to-Speech (TTS) system capable of producing natural and conversational speech, including nuanced expressions like laughter, 'hmm,' and 'umm.'",
+    "link": {
+      "href": "https://github.com/m-aliabbas/alee_tts.git",
+      "label": "Alee TTS Demo Audios"
+    },
+    "logo": {
+      "src": "rvc_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Modified DINO with Masked Image Modeling",
+    "description": "Enhanced Vision Transformer (ViT-Small) by integrating DINO and Masked Image Modeling (MIM) techniques for pretraining on small datasets. Improved model robustness and performance in self-supervised learning tasks.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/dino_modified_mim",
+      "label": "github"
+    },
+    "logo": {
+      "src": "pytorch_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "PillWise",
+    "description": "Developed a Multimodal Retrieval-Augmented Generation (RAG) agent for medication identification. Paired with a mobile app, the system detects and identifies medications through images and allows conversational interactions about the medication.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/pillwise",
+      "label": "github"
+    },
+    "logo": {
+      "src": "db_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Image Matting for Background Removal",
+    "description": "Developed a model for accurate image matting to enable seamless background removal and compositing for e-commerce and media applications.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/FBA_Matting",
+      "label": "github"
+    },
+    "logo": {
+      "src": "adobe.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "AI-Based Histopathological Diagnosis",
+    "description": "Built convolutional neural network (CNN) models for diagnosing histopathological images of lung adenocarcinoma and squamous cell carcinoma.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/MedicalImageClassification",
+      "label": "github"
+    },
+    "logo": {
+      "src": "fastai.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "COVID-19 Diagnosis Using Swin Transformer",
+    "description": "Fine-tuned Swin Transformer for diagnosing COVID-19 from chest X-ray images, outperforming existing CNN-based approaches.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/MedicalImageClassification",
+      "label": "github"
+    },
+    "logo": {
+      "src": "fastai.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Pneumonia Detection from Chest X-rays",
+    "description": "Designed a hybrid deep learning model combining CNNs and tree-based algorithms for pediatric pneumonia detection.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/PnuemoniaRefined",
+      "label": "github"
+    },
+    "logo": {
+      "src": "pytorch_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Rust Detection Using YOLOv8",
+    "description": "Created an object detection model for identifying rust on machinery and vehicles to aid in predictive maintenance.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "yolo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Facial Search System",
+    "description": "Developed a FaceNet-based system for embedding and retrieving facial data with high accuracy.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/face_verification",
+      "label": "github"
+    },
+    "logo": {
+      "src": "facenet_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Sign Language Recognition",
+    "description": "Final Year Project (FYP) focused on recognizing sign language gestures using Shape Moments Analysis.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "opencv.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Object Detection in Medical Imaging",
+    "description": "Developed a detection system for identifying anomalies in medical imaging datasets.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "pytorch_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Virtual Reality Racing Game",
+    "description": "Mentored students on developing a Unity 3D-based VR racing game with real-world physics and enhanced graphics.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "unity.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Histopathological Image-Based Question Answering",
+    "description": "Fine-tuned multimodal Microsoft's Florence-2-large model to enable question-answering on histopathological images for medical diagnosis and research.",
+    "link": {
+      "href": "https://huggingface.co/m-aliabbas1/Florence-2-FT-path-vqa",
+      "label": "huggingface repo"
+    },
+    "logo": {
+      "src": "florencev2.jpg",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Text-Based Audio Cropper",
+    "description": "Designed a system to transcribe and analyze audio segments using speaker diarization and word-level timestamps.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/AudioSplitter",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "openai_whisoer.jpg",
+      "alt": "leave blank"
+    }
+  },
+  
+  {
+    "title": "Search Engine for Syntax and Contextual Similarity",
+    "description": "Designed a hybrid search engine combining syntax-based fuzzy matching and Sentence-BERT embeddings.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/similarity_tools",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "hf_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Sales Call Analysis",
+    "description": "Built an NLP pipeline for analyzing sales call conversations to detect key insights such as pricing issues, tone discrepancies, and salesman negligence.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "call_logo.jpg",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Text Summary Generator",
+    "description": "Fine-tuned T5 models to generate concise and contextual summaries from long-form research papers.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/summary_to_title",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "hf_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Ecommerce Sale Agent Bot",
+    "description": "Built a chatbot capable of handling FAQs across multiple languages with dynamic response generation, sale agent, recommend products of Ecommerce website.",
+    "link": {
+      "href": "https://sunnamusk.idrakai.com/",
+      "label": "hosted demo"
+    },
+    "logo": {
+      "src": "call_logo.jpg",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Pretraining BERT AND GPT for Papialanguge",
+    "description": "Developed pre-trained language models specifically for the low-resource Papia language, with applications in text classification, sentiment analysis, and translation tasks.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/papia_language_modeling",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "hf_logo.png",
+      "alt": "leave blank"
+    }
+  },
+
+  {
+    "title": "Real-Time ECG Monitoring",
+    "description": "Developed a real-time system to monitor ECG signals and provide actionable insights for healthcare applications.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "pytorch_logo.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "1D ResNet Models for ECG Signal Classification",
+    "description": "Built and deployed 1D ResNet models to classify ECG signals and detect abnormalities with high accuracy.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "ml_trade.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "AI-Driven Trading Indicators",
+    "description": "Designed and implemented AI-driven trading indicators to predict profitable trades based on historical time-series data.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/NinjaTraderIndicator",
+      "label": "github repo readme"
+    },
+    "logo": {
+      "src": "ml_trade.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Chart-Based Image Classification for Trade Predictions",
+    "description": "Developed and fine-tuned models to classify trading charts and predict trade directions and types.",
+    "link": {
+      "href": "https://github.com/m-aliabbas/trade_classification",
+      "label": "github repo"
+    },
+    "logo": {
+      "src": "ml_trade.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "ECG Signal Conversion from Images to Time Series",
+    "description": "Designed a technique to convert ECG images into structured time-series signals for downstream analysis.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "fastai.png",
+      "alt": "leave blank"
+    }
+  },
+  {
+    "title": "Anomaly Detection in Time-Series Data",
+    "description": "Created anomaly detection models to identify irregularities in industrial machine operations.",
+    "link": {
+      "href": "",
+      "label": ""
+    },
+    "logo": {
+      "src": "pytorch_logo.png",
+      "alt": "leave blank"
+    }
+  }
+]

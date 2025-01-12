@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Lead Machine Learning Engineer",
+    "company": "Idrak Ai Ltd.",
+    "companyURL": "https://idrakai.com/",
+    "companyLogo": "/images/idrak.png",
+    "location": "Derby, England / Gulberg Green, Islamabad, Pakistan",
+    "type": "Full-time",
+    "date": "March 2023 - Present",
+    "description": "I led a team of 7 ML engineers to develop and optimize cutting-edge AI solutions. I improved sales call accuracy from 70% to 89% with fine-tuned LLMs for sales conversations and built client-server WebSocket architectures for agents and inbound/outbound calling bots, achieving response times under 1 second. I optimized TTS systems with SoVits, focusing on phoneme processing and real-time voice cloning, and integrated end-of-utterance detection for conversational bots. Additionally, I quantized Whisper and LLMs for low-latency performance, delivering scalable and impactful AI-driven products.",
+    "skills": [
+      "Generative Ai",
+      "Langchain",
+      "Langgraph",
+      "ASR",
+      "TTS",
+      "Conversational Ai",
+      "Calling Bots",
+      "Conversation Agents",
+      "Llama Index",
+      "RAG",
+      "Graph RAG",
+      "PyTorch",
+      "NLP",
+      "Audio Models",
+      "FastAPI"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Idrak Ai Ltd.",
+    "companyURL": "https://idrakai.com/",
+    "companyLogo": "/images/idrak.png",
+    "location": "Derby, England / Gulberg Green, Islamabad, Pakistan",
+    "type": "Full-time",
+    "date": "Oct 2022 - March 2023",
+    "description": "I focused on fine-tuning ASR and TTS models such as Wave2Vec, Whisper, Tortise, and VITS TTS to enhance their performance and efficiency. I also developed a system for the detection and localization of tuberculosis, showcasing my ability to apply AI solutions to critical healthcare challenges. Additionally, I trained BERT and GPT2 family models using Mask Language Modeling (MLM) and Casual Language Modeling (CLM), contributing to advancements in natural language processing.",
+    "skills": [
+      "Artificial Intelligence (AI)",
+      "Machine Learning",
+      "PyTorch",
+      "Transformers",
+      "Computer Vision",
+      "Deep Learning",
+      "NLP",
+      "Audio Models",
+      "Research",
+      "LLMs",
+      "Numpy",
+      "Pandas",
+      "Pytorch Lighting",
+      "FastAI",
+      "Flask",
+      "NLTK"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Safebeat Rx",
+    "companyURL": "https://safebeat.com/",
+    "companyLogo": "/images/safebeat.jpg",
+    "location": "United States",
+    "type": "Full-time | Remote",
+    "date": "July 2021 - May 2022",
+    "description": "I contributed to the development of a real-time ECG monitoring device connected to a dashboard, increasing QTc measurement accuracy by 4% using deep learning techniques. I developed methods to convert ECG images into time-series signals and implemented 1D ResNet for ECG signal classification. Additionally, I worked on detecting the longest beat in ECG signals to ensure accurate R-R distance measurement, demonstrating expertise in time-series analysis and healthcare-focused AI solutions.",
+    "skills": [
+      "Deep Learning",
+      "Time-Series Analysis",
+      "Signal Processing",
+      "Medical AI and Healthcare Solutions",
+      "PyTorch",
+      "FastAI",
+      "NeuroKit",
+      "Trustworthy AI",
+      "Pandas",
+      "Numpy",
+      "DWT",
+      "Image Processing",
+      "OpenCV",
+      "Flask"
+      
+    ]
+  },
+  {
+    "title": "Machine Learning Developer",
+    "company": "ML Trade",
+    "companyURL": "https://iub.edu.bd/",
+    "companyLogo": "/images/ml_trade.png",
+    "location": "USA",
+    "type": "Full-time | Remote",
+    "date": "Oct 2019 - Apr 2021",
+    "description": " I developed AI-driven solutions for financial markets, focusing on predicting trade types and directions using image classification models on trading chart images. I built ensemble classification systems that analyzed chart patterns to identify optimal entry points and achieved an 80% success rate in creating AI-based trading indicators. Additionally, I integrated these models into a hybrid Python-C# application, designed APIs to connect NinjaTrader software with inference systems, and developed user-friendly documentation and tutorials. My work demonstrated expertise in image-based classification, time-series analysis, and financial AI system integration.",
+    "skills": [
+      "Python",
+      "C#",
+      "FastAI",
+      "Flask",
+      "Image Classification",
+      "Transfer Learning",
+      "Multimodal AI",
+      "Time-Series Analysis",
+      "Data Preprocessing and Feature Engineering",
+      "Technical Documentation and Tutorial Creation"
+    ]
+  },
+  {
+    "title": "Secondary School Educator",
+    "company": "Govt of Punjab, School Education Department, Punjab, Pakistan",
+    "companyURL": "https://schools.punjab.gov.pk/",
+    "companyLogo": "/images/school_edu.jpg",
+    "location": "Misrial, Punjab, Pakistan",
+    "type": "Part-time",
+    "date": "March 2018 - Aug 2020",
+    "description": "As a Secondary School Educator (SSE) in Computer Science at GHS Misrial School under the Punjab Education Department (March 2018 – August 2020), I utilized technology to inspire and educate students. I introduced practical approaches to teaching, including C++ programming and HTML, helping students achieve excellent grades. Beyond teaching, I developed a School Information System to streamline administrative tasks and improve efficiency. Through personalized career advice and mentorship, I guided students toward pursuing careers in technology, fostering a passion for learning and innovation. My role combined education, technology integration, and mentorship to empower the next generation of learners.",
+    "skills": [
+      "C++",
+      "GW Basic",
+      "Php",
+      "HTML",
+      "Information System",
+      "Teaching",
+      "Leadership",
+      "Inspiration"
+    ]
+  },
+  {
+    "title": "Visiting Lecturer",
+    "company": "University of Sargodha, Pakistan",
+    "companyURL": "https://su.edu.pk",
+    "companyLogo": "/images/uos.jpg",
+    "location": "USA",
+    "type": "Full-time",
+    "date": "Sep 2017 - March 2018",
+    "description": " I taught foundational and advanced courses, including Data Structures, Programming Fundamentals, and Multimedia Systems and Design. I also supervised student projects, such as Computer Control Using Eye Blink, Sentiment Analysis of Text, and Virtual Reality Racing Games using Unity 3D, fostering innovation and practical application of technology. My role involved mentoring students, designing engaging coursework, and inspiring a passion for computer science and emerging technologies.",
+    "skills": [
+      "Python",
+      "C#",
+      "Unity",
+      "NLTK",
+      "OpenCV",
+      "DLIB",
+      "DSA",
+      "Leadership",
+      "Teaching"
+    ]
+  }
+]

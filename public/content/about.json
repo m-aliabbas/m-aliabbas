@@ -1,0 +1,30 @@
+{
+  "name": "Muhammad Ali Abbas",
+  "designation": "Lead Machine Learning Engineer",
+  "company": {
+    "name": "Idrak Ai Ltd.",
+    "url": "https://idrakai.com/"
+  },
+  "description": "I am Muhammad Ali Abbas (Ali), a dedicated Machine Learning Engineer and researcher with expertise in Speech AI, NLP, and Computer Vision. Over the years, I have made significant contributions to AI research, publishing papers on diagnosing COVID-19 using Swin Transformer, predictive maintenance in motor faults, and pneumonia detection through hybrid deep learning methods. My research also includes AI-based histopathological diagnosis of lung and colon cancers and identifying health factors during pandemics using feature selection and neural networks. These works reflect my commitment to solving real-world problems through AI innovation. \n \n Currently, as a Lead Machine Learning Engineer at Idrak AI Ltd., I have developed cutting-edge solutions such as outbound and inbound calling bots, CFO agents for financial analysis, and generative AI agents for various domains. Leveraging technologies like PyTorch, Huggingface, LangChain, LangGraph, and LlamaIndex, I have optimized TTS and ASR systems, created multilingual TTS systems, and engineered noise cancellation tools for real-time applications. My work also includes designing analytics dashboards with speaker diarization and text retrieval, demonstrating my ability to build scalable, impactful AI-driven products. \n \n I am actively seeking Ph.D. opportunities in Speech AI, NLP, or Computer Vision, focusing on generative models, multimodal AI, and self-supervised learning. Additionally, I am open to Machine Learning roles and collaborations with investors to scale innovative AI products. With my strong foundation in research and development, along with expertise in building advanced conversational systems and generative AI agents, I aim to push the boundaries of AI and contribute to transformative advancements in the field.",
+  "socialLinks": [
+    {
+      "name": "google-scholar",
+      "url": "https://scholar.google.com/citations?user=Uslusx8AAAAJ"
+    },
+    
+    {
+      "name": "github",
+      "url": "https://github.com/m-aliabbas"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://linkedin.com/in/m-aliabbas"
+    },
+    {
+      "name": "orcid",
+      "url": "https://orcid.org/0000-0002-7012-1460"
+    }
+  ],
+  "resume": "files/mohammad_ali_dev.pdf",
+  "note": ""
+}

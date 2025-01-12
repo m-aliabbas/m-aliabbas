@@ -1,0 +1,54 @@
+[
+  {
+    "school": "University of Lahore, Pakistan.",
+    "schoolURL": "https://uol.edu.pk/",
+    "schoolLogo": "/images/uol.png",
+    "schoolLocation": "CGPA: 3.56",
+    "degree": "Master of Science - MS",
+    "major": "Artificial Intelligence",
+    "minor": "Multimedia Systems",
+    "date": "2018 - 2021",
+    "description": "I hold a Master’s degree in Computer Science from the University of Lahore (2021), with a major in Artificial Intelligence, Advanced AI, and Evolutionary Computing, and a minor in Multimedia Systems and Wireless Networks. My thesis focused on diagnosing pneumonia using a hybrid deep learning model, achieving 97.78% accuracy, and I worked on projects involving genetic algorithm-based optimization and reinforcement learning, gaining advanced expertise in applied AI and machine learning.",
+    "activitiesandsocieties": [
+      "University Bus Route Optimization (GA)",
+      "Deep Reinforcement Learning-Based Cart Pole Agent",
+      "Diabatic Blidness Kaggle Competition",
+      "Research Assistant"
+    ]
+  },
+  {
+    "school": "University of Sargodha, Pakistan",
+    "schoolURL": "https://su.edu.pk/",
+    "schoolLogo": "/images/uos.jpg",
+    "schoolLocation": "CGPA: 3.59",
+    "degree": "Bachelor of Science - BS",
+    "major": "Information Technology",
+    "minor": "Engineering Mathematics",
+    "date": "2013 - 2017",
+    "description": "I hold a Bachelor’s degree in Information Technology from the University of Sargodha (2017), with a focus on Image Processing and Machine Learning. My coursework combined technical expertise in multimedia systems and programming with practical applications like sign language recognition using shape moments analysis.",
+    "activitiesandsocieties": [
+      "Silver Medalist",
+      "Competitive Programming",
+      "Photography",
+      "Poster Designing",
+      "Teaching Assistant"
+    ]
+  },
+  {
+    "school": "Government College University Faisalabad.",
+    "schoolURL": "https://gcuf.edu.pk/",
+    "schoolLogo": "/images/gcfb.png",
+    "schoolLocation": "Marks: 81 % | remote",
+    "degree": "Bachelor of Science - BS",
+    "major": "Information Technology",
+    "minor": "Engineering Mathematics",
+    "date": "2024 - 2025*",
+    "description": "I am currently pursuing a Bachelor of Education (B.Ed) degree from GC Faisalabad (2023–2025), with a focus on leveraging AI to assist students, understanding factors that influence learning, and enhancing the overall educational experience through technology.",
+    "activitiesandsocieties": [
+      "Ai for Education",
+      "AI assisted Learning",
+      "Teaching Practices"
+    ]
+  }
+]
+

@@ -1,0 +1,92 @@
+{
+  "2025": [
+    {
+      "title": "Developed portfolio website",
+      "description": "Created a personal portfolio website to showcase my projects, research, and professional achievements in AI and machine learning."
+    },
+    {
+      "title": "Completed CFO-II Conversational Agent for Financial Analysis",
+      "description": "Successfully developed CFO-II, a multimodal voice-to-voice conversational agent designed for advanced financial analysis."
+    }
+  ],
+  "2024": [
+    {
+      "title": "Earned multiple AI certifications",
+      "description": "Achieved certifications in Retrieval Augmented Generation for Production with LangChain & LlamaIndex by Activeloop, Training and Fine-tuning LLMs for Production by Activeloop, LlamaIndex and Intel, and LangGraph by LangChain Academy."
+    },
+    {
+      "title": "Started developing CFO-II for financial analysis",
+      "description": "Began the development of CFO-II, a multimodal voice-to-voice financial analysis agent, in late December."
+    }
+  ],
+  "2023": [
+    {
+      "title": "Joined GC Faisalabad for B.Ed",
+      "description": "Pursued a Bachelor of Education (B.Ed) to focus on leveraging AI for enhancing student learning and advancing educational experiences."
+    },
+    {
+      "title": "Promoted to Lead Machine Learning Engineer at Idrak AI Ltd.",
+      "description": "Took on a leadership role to oversee a team of 7 ML engineers and drive scalable AI projects, including generative agents and advanced ASR/TTS systems."
+    }
+  ],
+  "2022": [
+    {
+      "title": "Started working at Idrak AI Ltd. as a Machine Learning Engineer",
+      "description": "Focused on fine-tuning ASR and TTS models, training LLMs, and building AI solutions for speech and NLP tasks."
+    }
+  ],
+  "2021": [
+    {
+      "title": "Started working at Safebeat Rx as a Machine Learning Engineer",
+      "description": "Contributed to developing real-time ECG monitoring systems and applied deep learning for signal classification and analysis."
+    },
+    {
+      "title": "Graduated with a Master’s degree in Computer Science",
+      "description": "Completed my MS with a focus on AI, Advanced AI, and Evolutionary Computing, completing a thesis on pneumonia detection using hybrid deep learning."
+    }
+  ],
+  "2020": [
+    {
+      "title": "Started working at ML Trade as a Machine Learning Developer",
+      "description": "Developed AI-driven trading systems, including chart-based image classification models for predicting trade types and directions."
+    },
+    {
+      "title": "Left the Government of Punjab Education Department",
+      "description": "Transitioned from my role as a Secondary School Teacher to focus on AI and machine learning roles in the private sector."
+    }
+  ],
+  "2019": [
+    {
+      "title": "Earned key certifications in AI and research",
+      "description": "Completed certifications in Machine Learning by Stanford Online, Research Methods by University of London, and IBM Watson AI by IBM."
+    }
+  ],
+  "2018": [
+    {
+      "title": "Started working at the Government of Punjab Education Department",
+      "description": "Joined as a Secondary School Teacher, teaching Computer Science and inspiring young learners."
+    }
+  ],
+  "2017": [
+    {
+      "title": "Started working at the University of Sargodha as a Visiting Lecturer",
+      "description": "Taught courses like Data Structures, Programming Fundamentals, and supervised student projects."
+    },
+    {
+      "title": "Graduated with a Bachelor’s degree in Information Technology",
+      "description": "Completed my BS IT with a focus on Image Processing and Machine Learning, working on a final year project in sign language recognition."
+    }
+  ],
+  "2015": [
+    {
+      "title": "Won a programming competition",
+      "description": "Secured victory in the Vigorous Spark Programming Competition, showcasing my problem-solving and coding skills."
+    }
+  ],
+  "2013": [
+    {
+      "title": "Started my Bachelor’s degree in Information Technology",
+      "description": "Enrolled at the University of Sargodha, focusing on multimedia systems, programming, and machine learning."
+    }
+  ]
+}

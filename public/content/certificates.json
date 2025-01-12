@@ -1,0 +1,156 @@
+[
+    {
+        "image": {
+          "src": "certificates/llm_finetuning.jpg",
+          "alt": "Certificate for Train & Fine-Tune LLMs for Production"
+        },
+        "title": "Train & Fine-Tune LLMs for Production",
+        "link": {
+          "href": "https://learn.activeloop.ai/certificates/v35w4rwmwt"
+        },
+        "authority": "ActiveLoop",
+        "skills_learned": [
+          "Deep Learning Data Management",
+          "Efficient Data Handling for AI",
+          "Working with Deep Lake",
+          "Optimizing Machine Learning Pipelines"
+        ],
+        "description": "This certificate verifies that Muhammad Ali Abbas has successfully completed the ActiveLoop certification on Deep Learning Data Management, showcasing skills in handling data efficiently for AI and optimizing workflows using Deep Lake."
+      },
+      {
+        "image": {
+          "src": "certificates/rag_advance.jpg",
+          "alt": "Certificate for Retrieval Augmented Generation for Production"
+        },
+        "title": "Retrieval Augmented Generation for Production with LangChain & LlamaIndex",
+        "link": {
+          "href": "https://learn.activeloop.ai/certificates/r7a6oxzzx3"
+        },
+        "authority": "ActiveLoop",
+        "skills_learned": [
+          "Managing Deep Lake Datasets",
+          "Building Efficient AI Pipelines",
+          "Working with Tensor Storage",
+          "Optimizing Data Loading for Machine Learning"
+        ],
+        "description": "This certificate verifies that Muhammad Ali Abbas has successfully completed the ActiveLoop course, demonstrating expertise in managing Deep Lake datasets, optimizing data workflows, and enhancing machine learning pipeline efficiency."
+      },
+      {
+        "image": {
+          "src": "certificates/langgraph.jpg",
+          "alt": "Certificate for Langgraph"
+        },
+        "title": "Langgraph Certificate",
+        "link": {
+          "href": "https://academy.langchain.com/certificates/wb8tynpf5e"
+        },
+        "authority": "LangChain Academy",
+        "skills_learned": [
+          "LangChain Basics",
+          "Implementing LLM Applications",
+          "Retrieval-Augmented Generation (RAG)",
+          "Building Knowledge Graphs"
+        ],
+        "description": "This certificate verifies that Muhammad Ali Abbas has successfully completed the LangChain Academy course, showcasing proficiency in building advanced LLM applications and implementing RAG and knowledge graph techniques."
+      },
+      {
+        "image": {
+          "src": "certificates/machine_learning.jpeg",
+          "alt": "Certificate for Machine Learning by Stanford University"
+        },
+        "title": "Coursera Certificate: Machine Learning by Stanford University",
+        "link": {
+          "href": "https://www.coursera.org/account/accomplishments/verify/JWQCL4BN93CH"
+        },
+        "authority": "Coursera",
+        "skills_learned": [
+          "Supervised Learning",
+          "Unsupervised Learning",
+          "Linear Regression",
+          "Logistic Regression",
+          "Neural Networks",
+          "Support Vector Machines",
+          "Model Evaluation and Validation"
+        ],
+        "description": "This certificate verifies that Muhammad Ali Abbas has successfully completed the Machine Learning course by Stanford University on Coursera, showcasing expertise in foundational machine learning concepts, algorithms, and model building techniques."
+      },
+      {
+        "image": {
+          "src": "certificates/ibm.jpeg",
+          "alt": "Certificate for IBM Natural Language Processing Specialization"
+        },
+        "title": "IBM Natural Language Processing Specialization",
+        "link": {
+          "href": "https://www.coursera.org/account/accomplishments/verify/65EB8694ZCLC"
+        },
+        "authority": "Coursera",
+        "skills_learned": [
+          "Natural Language Processing (NLP)",
+          "Text Classification and Sentiment Analysis",
+          "Sequence Models (RNNs, GRUs, LSTMs)",
+          "Transformer Models (BERT, GPT)",
+          "Named Entity Recognition (NER)",
+          "Machine Translation",
+          "Speech Recognition"
+        ],
+        "description": "This certificate verifies that Muhammad Ali Abbas has successfully completed the Natural Language Processing Specialization by DeepLearning.AI on Coursera, showcasing expertise in NLP techniques, transformer models, and advanced applications like machine translation and speech recognition."
+      },
+      {
+        "image": {
+          "src": "certificates/research_method.jpeg",
+          "alt": "Certificate for Understanding Research Methods"
+        },
+        "title": "Understanding Research Methods",
+        "link": {
+          "href": "https://www.coursera.org/account/accomplishments/verify/YR2VS8QRP448"
+        },
+        "authority": "Coursera",
+        "skills_learned": [
+          "Deep Learning Fundamentals",
+          "Neural Network Architectures",
+          "Convolutional Neural Networks (CNNs)",
+          "Recurrent Neural Networks (RNNs)",
+          "Natural Language Processing (NLP)",
+          "Optimization Techniques",
+          "Hyperparameter Tuning"
+        ],
+        "description": "This certificate verifies that Muhammad Ali Abbas has successfully completed the Deep Learning Specialization by DeepLearning.AI on Coursera, demonstrating expertise in building and training deep neural networks, CNNs, RNNs, and applying deep learning to NLP and other domains."
+      },
+      {
+        "image": {
+          "src": "certificates/python.png",
+          "alt": "Certificate for Python (Basic) by HackerRank"
+        },
+        "title": "HackerRank Certificate: Python (Basic)",
+        "link": {
+          "href": "https://www.hackerrank.com/certificates/e8ff055c28bc"
+        },
+        "authority": "HackerRank",
+        "skills_learned": [
+          "Python Basics",
+          "Data Types",
+          "Control Structures",
+          "Functions and Libraries",
+          "Basic Problem-Solving"
+        ],
+        "description": "This certificate verifies that Muhammad Ali Abbas has successfully passed the Python (Basic) skill certification test on HackerRank, demonstrating foundational proficiency in Python programming and problem-solving."
+      },
+      {
+        "image": {
+          "src": "certificates/amazong_ec2.jpg",
+          "alt": "Certificate for Amazon EC2"
+        },
+        "title": "Amazon EC2",
+        "link": {
+          "href": "https://www.mygreatlearning.com/certificate/OXTFASEB"
+        },
+        "authority": "Great Learning",
+        "skills_learned": [
+          "Data Science Fundamentals",
+          "Machine Learning Techniques",
+          "Exploratory Data Analysis",
+          "Model Building and Evaluation"
+        ],
+        "description": "This certificate verifies that Muhammad Ali Abbas has successfully completed the Data Science and Machine Learning program by Great Learning, demonstrating proficiency in data analysis, machine learning, and model evaluation."
+      }
+  ]

@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Videos on ML Topics",
+    "url": "https://www.youtube.com/@campusx-official/playlists",
+    "description": "Campux is best channel for learning ML in Hindi. ",
+    "category": "Machine Learning"
+  },
+  {
+    "title": "Notes on Deep Learning",
+    "url": "https://aman.ai/cs230/",
+    "description": "A collection of notes on Deep Learning, and Machine Learning",
+    "category": "Deep Learning"
+  },
+  {
+    "title": "Langgraph Course",
+    "url": "https://academy.langchain.com/courses/intro-to-langgraph",
+    "description": "This Course will help you in Building AI agents.",
+    "category": "Natural Language Processing"
+  },
+  {
+    "title": "The Annotated Transformer",
+    "url": "https://nlp.seas.harvard.edu/annotated-transformer/",
+    "description": "A detailed explanation of the Transformer model",
+    "category": "Natural Language Processing"
+  },
+  {
+    "title": "The Annotated Transformer",
+    "url": "https://nlp.seas.harvard.edu/annotated-transformer/",
+    "description": "A detailed explanation of the Transformer model",
+    "category": "Natural Language Processing"
+  },
+  {
+    "title": "Fast Ai",
+    "url": "https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU",
+    "description": "Best Course to learn computer vision for developer",
+    "category": "Computer Vision"
+  }
+  
+]
