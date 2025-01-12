@@ -6,6 +6,9 @@ from fastapi.middleware.cors import CORSMiddleware
 # Assuming the ConversationManager class is defined in conversation_manager.py
 from ConversationManager import ConversationManager
 
+from dotenv import load_dotenv
+
+load_dotenv(dotenv_path='../.env')
 app = FastAPI()
 
 
