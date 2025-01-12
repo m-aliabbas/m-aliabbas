@@ -30,12 +30,12 @@ export default function CertificateCard({
       </div>
 
       {/* Certificate Title */}
-      <h2 className="mt-4 text-lg font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-zinc-800 dark:group-hover:text-zinc-100">
+      <h2 className="mt-4 text-lg font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-black-800 dark:group-hover:text-black-800">
         {certificate.title}
       </h2>
 
       {/* Certificate Authority */}
-      <p className="mt-2 text-sm font-medium text-zinc-500 dark:text-zinc-400 group-hover:text-zinc-500 dark:group-hover:text-zinc-400">
+      <p className="mt-2 text-sm font-medium text-zinc-500 dark:text-zinc-400 group-hover:text-black-100 dark:group-hover:text-zinc-400">
         {certificate.authority}
       </p>
 

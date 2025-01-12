@@ -3,7 +3,7 @@ import { Feed } from "feed";
 import fs from "fs";
 
 export default async function generateRss(): Promise<void> {
-  const site_url = `${process.env.SITE_URL || "https://mirsazzathossain.me"}`;
+  const site_url = `${process.env.SITE_URL || "https://m-aliabbas.vercel.app/"}`;
 
   const articles = await allArticles;
 
@@ -16,7 +16,7 @@ export default async function generateRss(): Promise<void> {
   const author = {
     name: "Muhammad Ali Abbas",
     email: "mirsazzathossain@gmail.com",
-    link: "https://mirsazzathossain.me",
+    link: "https://m-aliabbas.vercel.app/",
   };
 
   const feedOptions = {
