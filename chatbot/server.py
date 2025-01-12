@@ -2,11 +2,21 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import Dict, Any
 import uvicorn
-
+from fastapi.middleware.cors import CORSMiddleware
 # Assuming the ConversationManager class is defined in conversation_manager.py
 from ConversationManager import ConversationManager
 
 app = FastAPI()
+
+
+# Configure CORS settings
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Replace "*" with your frontend's domain if needed
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods (e.g., POST, GET, OPTIONS)
+    allow_headers=["*"],  # Allow all headers
+)
 
 class UserMessage(BaseModel):
     thread_id: str
@@ -19,9 +29,7 @@ model_params = {
     "max_tokens": None,
     "timeout": None,
     "max_retries": 2,
-    "safety_settings": {
-        "HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT": "HarmBlockThreshold.BLOCK_NONE",
-    },
+
 }
 file_name = './ali_cv_markdown.md'
 

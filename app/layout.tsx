@@ -5,6 +5,7 @@ import Footer from "../components/Footer";
 import { server } from "../config";
 import "../styles/globals.css";
 import ClientThemeProvider from "./theme-provider";
+import ChatBox from "components/Chat";
 
 export const metadata: Metadata = {
   title: {
@@ -165,6 +166,7 @@ export default function RootLayout({
             <Header />
             <main>{children}</main>
             <AnalyticsWrapper />
+            <ChatBox />
             <Footer />
           </div>
         </ClientThemeProvider>
