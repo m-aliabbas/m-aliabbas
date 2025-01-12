@@ -13,7 +13,7 @@ export default function CertificatesPlaceholder() {
         >
           {/* Placeholder for Certificate Image */}
           <div className="h-48 w-48 bg-gray-300 dark:bg-gray-700 rounded-lg mb-4 flex items-center justify-center">
-            <CertificateIcon className="h-12 w-12 text-gray-200 dark:text-gray-600" />
+            <ImageIcon className="h-12 w-12 text-gray-200 dark:text-gray-600" />
           </div>
 
           {/* Placeholder for Certificate Title */}
