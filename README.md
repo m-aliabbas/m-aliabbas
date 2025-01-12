@@ -40,7 +40,7 @@ I specialize in **Speech AI**, **NLP**, **Computer Vision**, and **Generative AI
 
 ## 🔗 Let's Connect
 
-- 🌐 **Website**: [Portfolio](https://m-aliabbas.github.io)
+- 🌐 **Website**: [Portfolio](https://m-aliabbas.vercel.app/)
 - 💼 **LinkedIn**: [Muhammad Ali Abbas](https://www.linkedin.com/in/m-aliabbas)
 - 🐙 **GitHub**: [m-aliabbas](https://github.com/m-aliabbas)
 - ✍️ **Medium**: [@m-aliabbas](https://medium.com/@m-aliabbas)
