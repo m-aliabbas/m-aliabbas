@@ -5,6 +5,7 @@ import { AiOutlineMessage, AiOutlineClose, AiOutlineSend } from "react-icons/ai"
 import { BsChatDotsFill } from "react-icons/bs"; // Bot icon
 import { FaUserCircle } from "react-icons/fa"; // User icon
 import axios from "axios"; // For API calls
+import config from "./config"; // Import the server URL from the config file
 
 const ChatBox = () => {
   const [isChatOpen, setIsChatOpen] = useState(false); // State to manage chat visibility
@@ -32,7 +33,7 @@ const ChatBox = () => {
 
       try {
         // Send the user's message to the API
-        const response = await axios.post("http://0.0.0.0:5455/chat/handle", {
+        const response = await axios.post(`${config.SERVER_URL}/chat/handle`, {
           thread_id: threadId,
           user_message: userMessage,
         });
